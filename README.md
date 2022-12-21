@@ -15,7 +15,7 @@
 - A passionate DevOps and Cloud Architect
 - Playing CTF's at spare time
 - Currently learning Backend Development by myself
-- Personal website [link](https://wwww.cristianlarios.com)
+- Personal website [link](https://www.cristianlarios.com)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/u/1/d/1IWKYHIEiqJOfy17WI835RwHS3isfEh1H/view?usp=sharing)
 
 <br><br>
