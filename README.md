@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Cristian Larios </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+DevOps+&hearts;++;Cloud+Architect,;Backend+Developer,;Electronic+Engineering+Student,;Cybersecurity+enthusiast,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+a+SRE+&hearts;++;Cloud+Architect,;Backend+Developer,;Electronic+Engineering+Student,;Cybersecurity+enthusiast,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -15,7 +15,7 @@
 - A passionate DevOps and Cloud Architect
 - Playing CTF's at spare time
 - Currently learning Backend Development by myself
-- Personal website [link](https://cflarios.github.io)
+- Personal website [link](https://wwww.cristianlarios.com)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/u/1/d/1IWKYHIEiqJOfy17WI835RwHS3isfEh1H/view?usp=sharing)
 
 <br><br>
