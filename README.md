@@ -2,7 +2,6 @@
 
 My name is Cristian, I'm from Colombia and I'm an SRE/DevOps.
 
-* Currently working for [@urkdash](https://github.com/Urkdash) as a SRE (I'm also it's co-founder).
 * Studying Electrical & Electronics Engineering.
 
 ## Skills
