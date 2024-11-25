@@ -2,7 +2,9 @@
 
 My name is Cristian, I'm from Colombia and I'm an SRE/DevOps.
 
-* Studying Electrical & Electronics Engineering.
+* Electrical Engineer
+* I love ethical hacking and pentesting
+* Self-taught DevOps Engineer
 
 ## Skills
 
@@ -13,4 +15,4 @@ My name is Cristian, I'm from Colombia and I'm an SRE/DevOps.
 
 ## Contact
 
-Find all of my socials and resume in my [website](https://cristianlarios.com)
+Find all of my socials and resume in my [website](https://linktr.ee/cflarios)
